@@ -2,19 +2,19 @@
   "name": "intervaluecore",
   "description": "InterValue Core",
   "author": "InterValue",
-  "version": "1.0.0",
+  "version": "1.0-testnet",
   "keywords": [
     "intervalue",
     "multisignature"
   ],
-  "homepage": "https://github.com/intervalue/intervaluecore",
+  "homepage": "https://github.com/intervalue/intervaluecore-1.0-testnet",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/intervalue/intervaluecore.git",
+    "url": "git://github.com/intervalue/intervaluecore-1.0-testnet.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/intervalue/intervaluecore/issues"
+    "url": "https://github.com/intervalue/intervaluecore-1.0-testnet/issues"
   },
   "browser": {
     "request": "browser-request",

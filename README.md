@@ -2,14 +2,13 @@
 
 This is a library used in [InterValue](https://inve.one) clients.  Never used directly.  Some of the clients that require the library:
 
-* [InterValue](../../../intervalue) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
-* [Headless InterValue](../../../headless-intervalue) - headless wallet, primarily for server side use.
-* [InterValue Relay](../../../intervalue-relay) - relay node for InterValue network.  It doesn't hold any private keys.
-* [InterValue Hub](../../../intervalue-hub) - hub for InterValue network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the InterValue network.
+* [InterValue Headless](../../../intervalue-headless-1.0-testnet) - headless wallet, primarily for server side use.
+* [InterValue Relay](../../../intervalue-relay-1.0-testnet) - relay node for InterValue network.  It doesn't hold any private keys.
+* [InterValue Hub](../../../intervalue-hub-1.0-testnet) - hub for InterValue network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the InterValue network.
 
 ## Developer guides
 
-See the [wiki](https://github.com/intervalue/intervaluecore/wiki/InterValue-Developer-Guides).  Many of the features are not documented yet, see other [intervalue repositories](https://github.com/intervalue) as samples, for APIs see the `exports` of node.js modules.
+See the [wiki](https://github.com/intervalue/intervaluecore-1.0-testnet/wiki/InterValue-Developer-Guides).  Many of the features are not documented yet, see other [intervalue repositories](https://github.com/intervalue) as samples, for APIs see the `exports` of node.js modules.
 
 ## Configuring
 
