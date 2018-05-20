@@ -63,7 +63,7 @@ There are 3 ways to customize conf in modules that use intervaluecore lib:
 1. drop a custom conf.js into the project root.  The code below will find it and merge.  Will not work under browserify.
 2. drop a custom conf.json into the app's data dir inside the user's home dir.  The code below will find it and merge.  Will not work under browserify.
 3. require() this conf and modify it:
-var conf = require('intervaluecore/conf.js');
+var conf = require('intervaluecore-1.0-testnet/conf.js');
 conf.custom_property = 'custom value';
 You should do it as early as possible during your app's startup.
 The later require()s of this conf will see the modified version.

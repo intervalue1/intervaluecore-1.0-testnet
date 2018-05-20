@@ -1,8 +1,8 @@
 {
-  "name": "intervaluecore",
-  "description": "InterValue Core",
+  "name": "intervaluecore-1.0-testnet",
+  "description": "InterValue Core 1.0 testnet",
   "author": "InterValue",
-  "version": "1.0-testnet",
+  "version": "1.0.0",
   "keywords": [
     "intervalue",
     "multisignature"
