@@ -7,8 +7,8 @@ exports.TOTAL_WHITEBYTES = 1e16;
 exports.MAJORITY_OF_WITNESSES = (exports.COUNT_WITNESSES%2===0) ? (exports.COUNT_WITNESSES/2+1) : Math.ceil(exports.COUNT_WITNESSES/2);
 exports.COUNT_MC_BALLS_FOR_PAID_WITNESSING = 100;
 
-exports.version = '1.0dev';
-exports.alt = '3';
+exports.version = '1.0';
+exports.alt = '2';
 
 //exports.GENESIS_UNIT = 'l0GRkJBahv46hC6/HKIF64nWkIHIihy2TcAI3EuOwk8=';
 //exports.BLACKBYTES_ASSET = 'WqlNRGo+ubt1kxWETTgFv0Xpni5kf3429TewuPnrEh8=';
